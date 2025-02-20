@@ -1,1 +1,2 @@
 introduction to bash scripting
+shebang line- #!/bin/bash
